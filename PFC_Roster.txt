@@ -1,0 +1,142 @@
+Baltimore Ravens, BAL
+QB, Joe Flacco, 39, 2007, 12, 99, 67, 67, 89, 34, 22, 3
+CB, Jimmy Smith, 27, 2011 69, 84, 89, 88, 89, 84, 10, 3
+END_PLAYERS
+Cincinnati Bengals, CIN
+WR, A.J. Green, 29, 2011, 80, 97, 97, 97, 90, 90, 9, 5
+END_PLAYERS
+Cleveland Browns, CLE
+QB, DeShone Kizer, 21, 2017, 95, 80, 85, 75, 75, 75, 2, 5
+END_PLAYERS
+Pittsburg Steelers, PIT
+RB, Le'Veon Bell, 24, 2014, 99, 95, 75, 90, 90, 90, 1.5, 5
+WR, Juju Smith-schuster, 21, 78, 73, 97, 99, 97, 93, 1, 4
+LB, Ryan Shazier, 21, 2018, 84, 85, 99, 90, 90, 90, 3, 5
+END_PLAYERS
+Buffalo Bills, BUF
+QB, Tyrod Taylor, 28, 2011, 85, 85, 90, 91, 81, 78, 11, 5
+END_PLAYERS
+Miami Dolphins, MIA
+DL, Ndamukong Suh, 30, 2010, 75, 85, 95, 98, 99, 15, 4
+END_PLAYERS
+New England Patriots, NE
+QB, Tom Brady, 40, 2000, 1,99, 1, 97, 98, 12, 22, 5
+END_PLAYERS
+New York Jets, NYJ
+QB, Christian Hackenburg, 22, 2016, 70, 65, 87, 95, 70, 55, 6, 4
+END_PLAYERS
+Houston Texans, HOU
+QB, Deshaun Watson, 22, 2016, 99, 85, 90, 90, 80, 80, 12, 5
+WR, DeAndre Hopkins, 25, 2013, 78, 90, 93, 92, 92, 81, 8, 5
+DL, JJ Watt, 28, 2011, 78, 88, 91, 97, 99, 89, 11, 5
+K, Shane Lechler, 41, 2000, 77, 99, 99, 99, 99, 99, 7, 3
+END_PLAYERS
+Indianapolis Colts, IND
+QB, Andrew Luck, 28, 2012, 82, 85, 95, 95, 87, 75, 19, 5
+END_PLAYERS
+Jacksonville Jaguars, JAX
+RB, Leonard Fournette, 22, 2017, 74, 76, 85, 93, 90, 90, 7, 4
+WR, Allen Robinson, 24, 2014, 81, 90, 87, 89, 90, 81, 7, 1
+END_PLAYERS
+Tennessee Titans, TEN
+QB, Marcus Mariota, 24, 2015, 80, 80, 94, 89, 81, 77, 12, 4
+END_PLAYERS
+Denver Broncos, DEN
+QB, Paxton Lynch, 23, 2016, 79, 64, 92, 93, 75, 74, 3, 5
+END_PLAYERS
+Kansas City Chiefs, KC
+QB, Patrick Mahomes, 22, 2017, 87, 71, 92, 97, 78, 79, 4, 4
+RB, Kareem Hunt, 22, 2017, 75, 65, 85, 85, 87, 82, 1, 4
+END_PLAYERS
+Oakland Raiders, OAK
+QB, Derek Carr, 20, 2017, 99, 99, 99, 99, 99, 99, 2, 7
+QB, Micah Love, 8, 2017, 99, 99, 99, 99, 99, 99, 1, 40
+RB, Jalen Richard, 24, 2016, 85, 80, 90, 86, 91, 85, 2, 6
+RB, DeAndre Washington, 24, 2016, 85, 80, 90, 86, 91, 85, 2, 6
+WR, Amari Cooper, 20, 2017, 99, 85, 99, 90, 92, 88, 3, 6
+WR, Jerry Rice, 39, 2000, 99, 99, 99, 99, 99, 99, 8, 4
+WR, Micheal Crabtree, 30, 2009, 80, 90, 91, 85, 87, 83, 5, 5
+WR, Johnny Holton, 22, 2016, 99, 99, 99, 80, 80, 80, 1, 6
+OL, Jylan Ware, 22, 2017, 86, 96, 95, 92, 93, 89, 5, 5
+OL, Kelechi Osemele, 22, 2017, 86, 96, 95, 92, 93, 89, 5, 5
+OL, Gabe Jackson, 22, 2017, 86, 96, 95, 92, 93, 89, 5, 5
+OL, Jon Feliciano, 22, 2017, 86, 96, 95, 92, 93, 89, 5, 5
+OL, Vadal Alexander, 22, 2017, 86, 96, 95, 92, 93, 89, 5, 5
+DL, Khalil Mack, 20, 2017, 99, 99, 99, 99, 99, 99, 5, 7
+DL, Eddie Vanderdoes, 23, 2017, 80, 79, 89, 89, 86, 87, 2, 5
+DL, Jihad Ward, 23, 2017, 80, 79, 89, 89, 86, 87, 2, 5
+DL, Jutin Ellis, 23, 2017, 80, 79, 89, 89, 86, 87, 2, 5
+LB, Khalil Mack, 20, 2017, 99, 99, 99, 99, 99, 99, 5, 7
+LB, Bruce Irvin, 20, 2017, 79, 89, 89, 89, 89, 89, 5, 7
+LB, Marquelle Lee, 20, 2017, 99, 99, 99, 79, 79, 79, 5, 5
+CB, Gareon Conley, 20, 2017, 99, 99, 99, 99, 99, 99, 5, 7
+CB, David Amerson, 33, 2006, 45, 99, 80, 75, 75, 75, 5, 1
+CB, Obi Melifonwu, 20, 2017, 99, 99, 99, 99, 99, 99, 5, 7
+CB, Reggie Nelson, 34, 2007, 45, 79, 93, 85, 87, 73, 3, 1
+S, Karl Joseph, 20, 2017, 99, 99, 99, 99, 99, 99, 5, 7
+S, Shalom luani, 20, 2017, 99, 99, 99, 89, 89, 89, 5, 50
+K, Marquette King, 20, 2017, 99, 99, 99, 99, 99, 99, 5, 7
+K Sebatian Janikowski, 39, 2000, 99, 89, 99, 98, 97, 97, 5, 7
+END_PLAYERS
+Los Angelos Chargers, LAC
+QB, Phillip Rivers, 36, 2004, 84, 94, 97, 89, 86, 43, 22, 2
+END_PLAYERS
+Chicago Bears, CHI
+QB, Mitchell Trubiski, 23, 2017, 78, 67, 93, 93, 80, 76, 7, 4
+RB, Jordan Howard, 23, 2016, 86, 89, 85, 90, 90, 89, 1, 4
+RB, Tarik Cohen, 22, 2017, 75, 75, 80, 80, 92, 77, 1, 5
+END_PLAYERS
+Detroit Lions, DET
+QB, Matthew Stafford, 29, 2009, 75, 88, 94, 98, 84, 70, 16, 3
+END_PLAYERS
+Green Bay Packers, GB
+QB, Aaron Rodgers, 24, 2015, 76, 97, 96, 97, 93, 75, 1, 5
+RB, Ty Montogomery, 24, 2015, 87, 81, 83, 82, 90, 87, 1, 5
+END_PLAYERS
+Minnesota Vikings, MIN
+QB, Teddy Bridgewater, 25, 2014, 86, 85, 90, 90, 85, 71, 13, 5
+RB, Dalvin Cook, 22, 2017, 80, 70, 90, 90, 90, 90, 4, 5
+CB, Trae Waynes, 25, 2015, 75, 75, 90, 91, 94, 70, 5, 5
+S, Harrison Smith, 23, 2016, 76, 92, 89, 88, 89, 80, 6, 5
+END_PLAYERS
+Dallas Cowboys
+QB, Dak Prescott, 24, 2016, 82, 88, 93, 93, 84, 80, 1, 5
+RB, Ezekiel Elliott, 22, 2016, 82, 90, 92, 88, 92, 90, 6, 5
+END_PLAYERS
+New York Giants, NYG
+WR, Odell Beckham, 25, 2014, 83, 94, 90, 93, 94, 85, 7, 5
+END_PLAYERS
+Philadelphia Eagles, PHI
+QB, Carson Wentz, 25, 2016, 84, 77, 92, 92, 79, 79, 7, 4
+END_PLAYERS
+Washington Redskins, WAS
+RB, Samaje Perine, 22, 2017, 78, 76, 85, 86, 87, 82, 1, 5
+END_PLAYERS
+Atlanta Falcons, ATL
+QB, Matt Ryan 32, 2008, 87, 96, 96, 94, 94, 75, 15, 5
+END_PLAYERS
+Carolina Panthers, CAR
+QB, Cam Newton, 28, 2011, 76, 90, 97, 97, 82, 88, 15, 4
+RB, Christian McCaffrey, 21, 2017, 79, 78, 87, 83, 91, 85, 4, 4
+END_PLAYERS
+New Orleans Saints, NO
+QB, Drew Brees, 38, 2001, 50, 99, 96, 90, 92, 86, 8, 4
+RB, Alvin Kamara, 21, 2017, 80, 76, 84, 85, 88, 88, 5, 4
+CB, Marshon Lattimore, 21, 2017, 77, 63, 79, 85, 94, 78, 4, 4
+END_PLAYERS
+Tampa Bay Buccaneers, TB
+Jameis Winston, 23, 2015, 83, 79, 96, 95, 81, 78, 6, 4
+END_PLAYERS
+Arizona Cardinals, AZ
+RB, David Johnson, 22, 2017, 84, 90, 91, 92, 92, 94, 5, 5
+S, Tyrann Mathieu, 21, 2017, 81, 88, 85, 89, 90, 90, 5, 5
+END_PLAYERS
+Los Angeles Rams, LA
+QB, Jared Goff, 23, 2016, 72, 73, 91, 92, 76, 74, 12, 5
+END_PLAYERS
+Seattle Seahawks, SEA
+QB, Russell Wilson, 39, 2000, 78, 78, 12, 50, 50, 50, 50, 3
+END_PLAYERS
+San Francisco 49ers, SF
+Jimmy Garoppolo, 26, 2014, 81, 80, 92, 90, 81, 62, 12, 5
+END_PLAYERS
